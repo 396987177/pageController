@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  PageController
+//
+//  Created by L_晨曦 on 2017/10/17.
+//  Copyright © 2017年 L_晨曦. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "UIColor+Hex.h"
+#import "UIImage+Common.h"
+#import "Masonry.h"
+#import "UIViewController+ChildViewController.h"
+#import "XSBaseTableViewCell.h"
+#endif /* PrefixHeader_pch */
