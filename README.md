@@ -4,6 +4,6 @@
 
 ![image](https://github.com/396987177/pageController/raw/master/image/demo.gif)
 
-![image](https://github.com/396987177/pageController/raw/master/image/demo2.ipg)
+![image](https://github.com/396987177/pageController/raw/master/image/demo2.jpg)
 
 
