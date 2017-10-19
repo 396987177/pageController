@@ -66,7 +66,6 @@
 }
 
 #pragma mark - ScroollView Delegate
-
 - (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView{
     
     if (![scrollView isKindOfClass:[UITableView class] ]) {
